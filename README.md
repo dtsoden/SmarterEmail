@@ -1,1 +1,2 @@
 # SmarterEmail
+![Logo](/Logo.png)
